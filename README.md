@@ -45,7 +45,7 @@ I am a passionate and dedicated Data Science enthusiast with a strong interest i
 ## Get in Touch 📫
 
 Feel free to connect with me through the following channels:
-- Email: your.email@example.com ✉️
+- Email: jkanishkha0305@gmail.com ✉️
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jkanishkha/) 🔗
 - Personal Website: [Portfolio Website](https://jkanishkha0305.github.io/Personal_Website/) 💼
 
